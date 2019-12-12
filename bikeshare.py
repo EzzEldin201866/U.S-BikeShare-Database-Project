@@ -8,7 +8,22 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 cities=['chicago',
         'new york city',
         'washington']
+<<<<<<< HEAD
 months=['January', 'February', 'March', 'April', 'May', 'June', 'July','August', 'September', 'October', 'November', 'December'
+=======
+months=['January', 
+	'February',
+	'March', 
+	'April', 
+	'May', 
+	'June', 
+	'July',
+	'August', 
+	'September', 
+	'October', 
+	'November', 
+	'December'
+>>>>>>> refactoring
         ,'All']
 days=['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'
       ,'All']
@@ -183,4 +198,8 @@ def main():
             break
 
 if __name__ == "__main__":
+<<<<<<< HEAD
 	main()
+=======
+	main()
+>>>>>>> refactoring
